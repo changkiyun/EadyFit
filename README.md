@@ -75,7 +75,7 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <summary>
 <a>API 문서</a>
 </summary>
-<img src="https://github.com/user-attachments/assets/20620cb2-9704-47a7-963b-2bc76f106112" width="500"/>
+<img src="https://github.com/user-attachments/assets/c522eaf1-949e-45e2-99e6-edf3560e42b5" width="500"/>
 <br>
 <a href="https://comely15.notion.site/API-cf7b6bd22929401080707986145b3fd6">Notion 링크</a>
 </details>
