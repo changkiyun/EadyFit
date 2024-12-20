@@ -64,23 +64,28 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 ## 개발 문서
 <details>
 <summary>
-<a href="https://comely15.notion.site/f6430680d67a47ed8266a7483d945258">기능 명세서</a>
+<a>기능 명세서</a>
 </summary>
 <img src="https://github.com/user-attachments/assets/f0a5ab36-15c2-4ad6-a518-9200ff00516e" width="500"/>
+<br>
+<a href="https://comely15.notion.site/f6430680d67a47ed8266a7483d945258">Notion 링크</a>
 </details>
 
 <details>
 <summary>
-<a href="https://comely15.notion.site/API-cf7b6bd22929401080707986145b3fd6">API 문서</a>
+<a>API 문서</a>
 </summary>
 <img src="https://github.com/user-attachments/assets/20620cb2-9704-47a7-963b-2bc76f106112" width="500"/>
+<br>
+<a href="https://comely15.notion.site/API-cf7b6bd22929401080707986145b3fd6">Notion 링크</a>
 </details>
 
 <details>
 <summary>
-<a href="https://comely15.notion.site/API-cf7b6bd22929401080707986145b3fd6">아키텍처</a>
+<a>아키텍처</a>
 </summary>
 <img src="[https://github.com/user-attachments/assets/20620cb2-9704-47a7-963b-2bc76f106112](https://github.com/user-attachments/assets/16208491-c955-4626-b3f5-6cf7e5d6298e)" width="500"/>
+<br>
 </details>
 
 
