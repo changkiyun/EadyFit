@@ -80,7 +80,7 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <summary>
 <a href="https://comely15.notion.site/API-cf7b6bd22929401080707986145b3fd6">아키텍처</a>
 </summary>
-<img src="https://github.com/user-attachments/assets/20620cb2-9704-47a7-963b-2bc76f106112" width="500"/>
+<img src="[https://github.com/user-attachments/assets/20620cb2-9704-47a7-963b-2bc76f106112](https://github.com/user-attachments/assets/16208491-c955-4626-b3f5-6cf7e5d6298e)" width="500"/>
 </details>
 
 
