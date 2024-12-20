@@ -87,17 +87,6 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <br/>
 <br/>
 
-## 나의 역할
-채팅기능의 프론트엔드, 백엔드 구현과 AWS를 통한 서비스 배포를 담당했습니다.
-
-채팅
-
-<img src="https://github.com/user-attachments/assets/aa164220-3d9e-43e4-a2c6-f9ebdfacaf5c" width="600"/>
-
-우측 하단의 FloatingButton 을 통해 웹 페이지 어디서든 채팅기능에 접근할 수 있도록 구현했습니다.
-
-
-
 <br/>
 <br/>
 
