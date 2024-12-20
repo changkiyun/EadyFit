@@ -66,7 +66,7 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <summary>
 <a>기능 명세서</a>
 </summary>
-<img src="https://github.com/user-attachments/assets/f0a5ab36-15c2-4ad6-a518-9200ff00516e" width="650"/>
+<img src="https://github.com/user-attachments/assets/f0a5ab36-15c2-4ad6-a518-9200ff00516e" width="800"/>
 <br>
 <a href="https://comely15.notion.site/f6430680d67a47ed8266a7483d945258">Notion 링크</a>
 </details>
@@ -75,7 +75,7 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <summary>
 <a>API 문서</a>
 </summary>
-<img src="https://github.com/user-attachments/assets/c522eaf1-949e-45e2-99e6-edf3560e42b5" width="650"/>
+<img src="https://github.com/user-attachments/assets/c522eaf1-949e-45e2-99e6-edf3560e42b5" width="800"/>
 <br>
 <a href="https://comely15.notion.site/API-cf7b6bd22929401080707986145b3fd6">Notion 링크</a>
 </details>
@@ -84,7 +84,7 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <summary>
 <a>아키텍처</a>
 </summary>
-<img src="https://github.com/user-attachments/assets/16208491-c955-4626-b3f5-6cf7e5d6298e" width="650"/>
+<img src="https://github.com/user-attachments/assets/16208491-c955-4626-b3f5-6cf7e5d6298e" width="800"/>
 <br>
 </details>
 
