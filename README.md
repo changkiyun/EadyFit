@@ -107,11 +107,11 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 
 ### 게시글쓰기
 <img src="https://github.com/user-attachments/assets/4fa14e57-2784-4283-ad3d-96a733ea919b" width="600"/>
-<p>
+<p> 카테고리별로 게시글을 작성할 수 있습니다.
 
 ### 댓글쓰기
 <img src="https://github.com/user-attachments/assets/18a9587c-13ea-4b6c-bbc5-db40665d3ce9" width="600"/>
-<p> 카테고리별로 게시글을 작성할 수 있습니다.
+<p> 등록된 게시글에 댓글을 작성할 수 있습니다.
 
 ### 채팅방입장
 <img src="https://github.com/user-attachments/assets/7fcd7e89-fd82-4760-badc-5e1d11174714" width="600"/>
@@ -120,7 +120,6 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 ### 채팅방퇴장
 <img src="https://github.com/user-attachments/assets/112c22d6-30a1-4c6e-ae08-70a34e8b3188" width="600"/>
 <p> 채팅방에서 퇴장하면 참여중인 채팅방 목록에서 삭제되고 홈 탭에서 확인할 수 있습니다.
-
 
 ### 채팅테스트
 <img src="https://github.com/user-attachments/assets/745af4b0-0265-4bdf-9213-d62686324525" width="250"/>
