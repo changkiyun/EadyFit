@@ -89,9 +89,9 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 </details>
 
 ## 주요 기능
-### 식단 시각화
+### 월별 섭취량 시각화
 <img src="https://github.com/user-attachments/assets/f19b9815-6bcd-4395-a593-53d98693559e" width="600"/>
-<p>기록한 식단을 바탕으로 월별 섭취량을 시각화합니다.
+<p>기록한 식단을 바탕으로 월별 영양성분 섭취량을 시각화합니다.
 
 ### 칼로리 계산
 <img src="https://github.com/user-attachments/assets/e0a502e8-1aaf-4516-8b25-7347810fce35" width="600"/>
