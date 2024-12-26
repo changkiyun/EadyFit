@@ -93,9 +93,13 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <img src="https://github.com/user-attachments/assets/f19b9815-6bcd-4395-a593-53d98693559e" width="600"/>
 <p>기록한 식단을 바탕으로 월별 식단을 시각화합니다.
 
+### 칼로리 계산
+<img src="https://github.com/user-attachments/assets/e0a502e8-1aaf-4516-8b25-7347810fce35" width="600"/>
+<p>공공데이터를 기반으로 입력한 음식의 칼로리, 탄수화물, 단백질, 지방을 계산에서 월별로 표시합니다.
+
 ### 식단기록
 <img src="https://github.com/user-attachments/assets/5ec9aae4-7f73-49b3-9f12-6aa90d91eb06" width="600"/>
-<p>공공데이터기반으로 구성된 DB에서 원하는 식품을 검색합니다.
+<p>아침, 점심, 저녁으로 당일 식단을 등록할 수 있습니다.
 
 ### 음식검색
 <img src="https://github.com/user-attachments/assets/cc477143-9156-4e8e-9041-904e0c183125" width="600"/>
