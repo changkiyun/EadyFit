@@ -123,7 +123,7 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <p> 입장기록, 퇴장기록을 확인할 수 있는 실시간 채팅기능입니다.
 
 ### 헬스장 검색
-<img src="https://github.com/user-attachments/assets/428fa620-37fc-4d7b-ab96-e4a4f2121590" width="800"/>
+<img src="https://github.com/user-attachments/assets/428fa620-37fc-4d7b-ab96-e4a4f2121590" width="900"/>
 <p> kakaomap API 를 기반으로 지역별 헬스장 목록을 검색할 수 있습니다.
 
 
