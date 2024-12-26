@@ -95,7 +95,7 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 
 ### 칼로리 계산
 <img src="https://github.com/user-attachments/assets/e0a502e8-1aaf-4516-8b25-7347810fce35" width="600"/>
-<p>입력한 음식의 칼로리, 탄수화물, 단백질, 지방을 공공데이터에 등록된 식품정보를 기반으로 계산해서 월별로 표시합니다.
+<p>입력한 음식의 탄단지, 칼로리을 공공데이터에 등록된 식품정보를 기반으로 계산, 월별 섭취량을 확인할 수 있습니다..
 
 ### 식단기록
 <img src="https://github.com/user-attachments/assets/5ec9aae4-7f73-49b3-9f12-6aa90d91eb06" width="600"/>
