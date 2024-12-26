@@ -95,5 +95,9 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <br/>
 <br/>
 
+## 주요 기능
+### 헬스장 검색
+<img src="https://github.com/user-attachments/assets/428fa620-37fc-4d7b-ab96-e4a4f2121590" width="800"/>
+
 
 
