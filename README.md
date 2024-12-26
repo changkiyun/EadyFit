@@ -94,11 +94,11 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <p>기록한 식단을 바탕으로 월별 식단을 시각화합니다.
 
 ### 식단기록
-<img src="https://github.com/user-attachments/assets/f3606692-0db4-4d46-a8d4-6e16c6d97755" width="600"/>
+<img src="https://github.com/user-attachments/assets/5ec9aae4-7f73-49b3-9f12-6aa90d91eb06" width="600"/>
 <p>공공데이터기반으로 구성된 DB에서 원하는 식품을 검색합니다.
 
 ### 음식검색
-<img src="https://github.com/user-attachments/assets/732c7f21-b969-4490-b747-a69ec069f870" width="600"/>
+<img src="https://github.com/user-attachments/assets/cc477143-9156-4e8e-9041-904e0c183125" width="600"/>
 <p>공공데이터기반으로 구성된 DB에서 원하는 식품을 검색합니다.
 
 ### 게시글쓰기
