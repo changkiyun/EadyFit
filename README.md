@@ -106,6 +106,13 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <img src="https://github.com/user-attachments/assets/331adfc9-118c-4a16-8df4-c75014fb94d7" width="600"/>
 <p>기록한 식단을 바탕으로 월별 영양성분 섭취량을 시각화합니다.
 
+### 채팅
+<img src="https://github.com/user-attachments/assets/745af4b0-0265-4bdf-9213-d62686324525" width="250"/>
+<p> 입장기록, 퇴장기록을 확인할 수 있는 실시간 채팅기능입니다.
+
+### 채팅 플로팅
+<img src="https://github.com/user-attachments/assets/fd78bc2b-9a7a-45c7-8a5c-a73c3a8d04ce" width="600"/>
+<p> 우측 하단의 플로팅버튼으로 서비스 어디서든 채팅기능에 접근이 가능합니다.
 
 ### 채팅방입장
 <img src="https://github.com/user-attachments/assets/7fcd7e89-fd82-4760-badc-5e1d11174714" width="600"/>
@@ -115,9 +122,7 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <img src="https://github.com/user-attachments/assets/112c22d6-30a1-4c6e-ae08-70a34e8b3188" width="600"/>
 <p> 채팅방에서 퇴장하면 참여중인 채팅방 목록에서 삭제되고 홈 탭에서 확인할 수 있습니다.
 
-### 채팅테스트
-<img src="https://github.com/user-attachments/assets/745af4b0-0265-4bdf-9213-d62686324525" width="250"/>
-<p> 입장기록, 퇴장기록을 확인할 수 있는 실시간 채팅기능입니다.
+
 
 
 ### 헬스장 검색
