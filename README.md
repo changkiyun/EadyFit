@@ -89,29 +89,23 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 </details>
 
 ## 주요 기능
-### 월별 섭취량 시각화
-<img src="https://github.com/user-attachments/assets/331adfc9-118c-4a16-8df4-c75014fb94d7" width="600"/>
-<p>기록한 식단을 바탕으로 월별 영양성분 섭취량을 시각화합니다.
 
-### 영양성분 계산
-<img src="https://github.com/user-attachments/assets/e0a502e8-1aaf-4516-8b25-7347810fce35" width="600"/>
-<p>입력한 음식의 영양성분을 공공데이터에 등록된 식품정보를 기반으로 계산하여 월별 영양성분 섭취량을 확인할 수 있습니다.
+### 음식검색
+<img src="https://github.com/user-attachments/assets/cc477143-9156-4e8e-9041-904e0c183125" width="600"/>
+<p>공공데이터기반으로 실제 상품명으로 음식을 검색할 수 있습니다.
 
 ### 식단기록
 <img src="https://github.com/user-attachments/assets/5ec9aae4-7f73-49b3-9f12-6aa90d91eb06" width="600"/>
 <p>아침, 점심, 저녁으로 구분해 당일 식단을 등록할 수 있습니다.
 
-### 음식검색
-<img src="https://github.com/user-attachments/assets/cc477143-9156-4e8e-9041-904e0c183125" width="600"/>
-<p>공공데이터기반으로 구성된 DB에서 원하는 식품을 검색합니다.
+### 영양성분 계산
+<img src="https://github.com/user-attachments/assets/e0a502e8-1aaf-4516-8b25-7347810fce35" width="600"/>
+<p>입력한 음식의 영양성분을 공공데이터에 등록된 식품정보를 기반으로 계산하여 월별 영양성분 섭취량을 확인할 수 있습니다.
 
-### 게시글쓰기
-<img src="https://github.com/user-attachments/assets/4fa14e57-2784-4283-ad3d-96a733ea919b" width="600"/>
-<p> 카테고리별로 게시글을 작성할 수 있습니다.
+### 월별 섭취량 시각화
+<img src="https://github.com/user-attachments/assets/331adfc9-118c-4a16-8df4-c75014fb94d7" width="600"/>
+<p>기록한 식단을 바탕으로 월별 영양성분 섭취량을 시각화합니다.
 
-### 댓글쓰기
-<img src="https://github.com/user-attachments/assets/18a9587c-13ea-4b6c-bbc5-db40665d3ce9" width="600"/>
-<p> 등록된 게시글에 댓글을 작성할 수 있습니다.
 
 ### 채팅방입장
 <img src="https://github.com/user-attachments/assets/7fcd7e89-fd82-4760-badc-5e1d11174714" width="600"/>
@@ -125,9 +119,19 @@ React 기반으로 개발한 SPA와 SpringBoot 기반으로 개발한 REST API �
 <img src="https://github.com/user-attachments/assets/745af4b0-0265-4bdf-9213-d62686324525" width="250"/>
 <p> 입장기록, 퇴장기록을 확인할 수 있는 실시간 채팅기능입니다.
 
+
 ### 헬스장 검색
 <img src="https://github.com/user-attachments/assets/428fa620-37fc-4d7b-ab96-e4a4f2121590" width="900"/>
 <p> kakaomap API 를 기반으로 지역별 헬스장 목록을 검색할 수 있습니다.
+
+
+### 게시글쓰기
+<img src="https://github.com/user-attachments/assets/4fa14e57-2784-4283-ad3d-96a733ea919b" width="600"/>
+<p> 카테고리별로 게시글을 작성할 수 있습니다.
+
+### 댓글쓰기
+<img src="https://github.com/user-attachments/assets/18a9587c-13ea-4b6c-bbc5-db40665d3ce9" width="600"/>
+<p> 등록된 게시글에 댓글을 작성할 수 있습니다.
 
 
 
